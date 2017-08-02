@@ -51,6 +51,9 @@
                                         <rect key="frame" x="8" y="583" width="327" height="40"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="23"/>
                                         <state key="normal" title="Final Answer"/>
+                                        <connections>
+                                            <action selector="submitButtonPressed:" destination="BYZ-38-t0r" eventType="touchUpInside" id="En7-jN-8mS"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                                 <edgeInsets key="layoutMargins" top="8" left="8" bottom="8" right="8"/>
